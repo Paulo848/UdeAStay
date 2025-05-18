@@ -1,0 +1,55 @@
+# =========================
+# Carpeta de compilación
+# =========================
+/UdeAStay/build/
+build*/
+
+# =========================
+# Proyectos Qt Creator
+# =========================
+*.pro.user*
+*.qbs.user*
+.qmake.stash
+.qmake.cache
+
+# =========================
+# Archivos generados
+# =========================
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# =========================
+# Objetos y ejecutables
+# =========================
+*.o
+*.obj
+*.so
+*.so.*
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+
+# =========================
+# Precompiled headers
+# =========================
+*.gch
+*.pch
+
+# =========================
+# Archivos de IDE/editores
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Archivos de sistema
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*~ 

@@ -9,6 +9,7 @@ SOURCES += \
         huesped.cpp \
         main.cpp \
         fecha.cpp \
+        menu.cpp \
         reservacion.cpp \
         utilid.cpp
 
@@ -17,5 +18,6 @@ HEADERS += \
     anfitrion.h \
     fecha.h \
     huesped.h \
+    menu.h \
     reservacion.h \
     utilid.h

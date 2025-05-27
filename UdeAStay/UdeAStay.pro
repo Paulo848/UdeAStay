@@ -9,8 +9,10 @@ SOURCES += \
         huesped.cpp \
         main.cpp \
         fecha.cpp \
+        mainMenu.cpp \
         menu.cpp \
         reservacion.cpp \
+        stubs.cpp \
         utilid.cpp
 
 HEADERS += \
@@ -18,6 +20,8 @@ HEADERS += \
     anfitrion.h \
     fecha.h \
     huesped.h \
+    mainMenu.h \
     menu.h \
     reservacion.h \
+    stubs.h \
     utilid.h

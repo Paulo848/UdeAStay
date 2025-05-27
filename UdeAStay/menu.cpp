@@ -74,7 +74,7 @@ int showRangoMenu(int min,int max)
 
     do
     {
-        std::cout << "Ingrese 0 para salir, o un número entre "
+        std::cout << "Ingrese 0 para salir, o un numero entre "
                   << min << " y " << max << ":" << std::endl;
 
         if (!(std::cin >> input))
@@ -85,7 +85,7 @@ int showRangoMenu(int min,int max)
                 std::numeric_limits<std::streamsize>::max(),
                 '\n'
                 );                  // Descarta hasta el salto de línea
-            std::cout << "Error: entrada inválida, debe ser un número."
+            std::cout << "Error: entrada invalida, debe ser un número."
                       << std::endl;
         }
 
@@ -101,7 +101,7 @@ int showRangoMenu(int min,int max)
 
         else
         {
-            std::cout << "Opción fuera de rango. Intente nuevamente." << std::endl;
+            std::cout << "Opcion fuera de rango. Intente nuevamente." << std::endl;
         }
     }
     while(!inputvalido);

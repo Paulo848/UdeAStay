@@ -1,9 +1,13 @@
 #include <iostream>
+#include "mainMenu.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    return 0;
+    cout << "Este es el main" << endl;
+
+    int ret = mainMenu();
+
+    return ret;
 }

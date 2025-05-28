@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Casa Palmeras,40006,10002,03,006,casa,Calle 20 #5-60,220000,piscina_gimnasio_jardin,50006

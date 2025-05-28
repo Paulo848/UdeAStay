@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Casa Envigado Tradicional,40015,10005,02,004,casa,Carrera 48 #22-15,230000,jardin_estacionamiento,50015

@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50013,40013,8889990001,2025-05-14,2,efectivo,310000,Solicita late check-out

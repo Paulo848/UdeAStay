@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metetodoPago,monto,anotaciones_huesped
+50015,40015,1020304050,2025-07-10,2,criptomonedas,460000,Prefiere habitación interior

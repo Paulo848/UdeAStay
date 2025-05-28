@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Andrés Gómez,1234567890,2025-02-20,4.7,50002

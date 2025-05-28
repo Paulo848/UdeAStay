@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Camila Ruiz,1020304050,2025-04-15,4.7,50015

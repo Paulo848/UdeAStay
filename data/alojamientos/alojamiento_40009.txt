@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Casa Bogotá Centro,40009,10004,01,001,casa,Carrera 7 #15-20,240000,wifi_aire_estacionamiento,50009

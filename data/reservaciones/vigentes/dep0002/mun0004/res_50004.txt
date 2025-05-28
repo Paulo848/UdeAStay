@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metetodoPago,monto,anotaciones_huesped
+50004,40004,5647382910,2025-05-22,3,criptomonedas,540000,Trae mascota

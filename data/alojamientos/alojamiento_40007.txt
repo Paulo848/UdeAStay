@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Apartamento Soacha,40007,10003,01,002,apartamento,Calle 100 #20-15,140000,wifi_tv,50007

@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Antonio Vargas,9990001112,2025-03-30,4.2,50014

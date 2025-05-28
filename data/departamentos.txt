@@ -1,0 +1,4 @@
+codigo,nombre
+01,Cundinamarca
+02,Antioquia
+03,Valle del Cauca

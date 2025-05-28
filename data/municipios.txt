@@ -1,0 +1,7 @@
+codigo,departamento,nombre
+001,01,Bogotá
+002,01,Soacha
+003,02,Medellín
+004,02,Envigado
+005,03,Cali
+006,03,Palmira

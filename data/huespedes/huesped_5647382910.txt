@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Carlos López,5647382910,2025-03-05,4.2,50004

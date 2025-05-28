@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Jorge Martínez,1112223334,2025-02-28,4.3,50006

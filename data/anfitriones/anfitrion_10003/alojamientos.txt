@@ -1,0 +1,3 @@
+departamento,municipio,alojamientoID
+01,002,40007
+03,005,40008

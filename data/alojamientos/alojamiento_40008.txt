@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Cabaña Valle,40008,10003,03,005,casa,Vereda el Roble,230000,jardin_asador,50008

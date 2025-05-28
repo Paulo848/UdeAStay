@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50003,40003,1029384756,2025-07-15,5,tarjetaCredito,1250000,Desea toallas extra

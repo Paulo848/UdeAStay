@@ -1,0 +1,5 @@
+departamento,municipio,alojamientoID
+01,001,40009
+02,003,40010
+02,004,40011
+03,006,40012

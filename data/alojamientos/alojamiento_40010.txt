@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Apartamento Poblado,40010,10004,02,003,apartamento,Transversal 34 #12-23,210000,wifi_tv_cocina_aire,50010

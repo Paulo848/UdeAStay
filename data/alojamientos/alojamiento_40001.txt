@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Casa Ana Vista,40001,10001,01,001,casa,Calle 10 #5-20,150000,wifi_cocina_aire,50001

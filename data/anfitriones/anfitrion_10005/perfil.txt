@@ -1,0 +1,2 @@
+id,nombre,contacto,puntuacion,dateRegis
+10005,José Pérez,jose.perez@example.com,4.4,2025-04-20

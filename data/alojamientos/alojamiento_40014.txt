@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Suite Bogotá Norte,40014,10005,01,001,apartamento,Calle 127 #7-50,270000,wifi_tv_aire,50014

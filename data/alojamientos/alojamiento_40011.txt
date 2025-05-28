@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Villa Envigado Alta,40011,10004,02,004,casa,Calle 42 #16-10,260000,piscina_jardin,50011

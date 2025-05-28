@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Andrés Castillo,7778889990,2025-01-12,4.5,50012

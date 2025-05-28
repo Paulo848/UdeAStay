@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50007,40007,2223334445,2025-05-16,2,efectivo,280000,Preguntar por limpieza

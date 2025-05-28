@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Apartamento Medellín Sur,40002,10001,02,003,apartamento,Carrera 20 #30-10,200000,wifi_tv_cocina,50002

@@ -1,0 +1,4 @@
+departamento,municipio,alojamientoID
+02,004,40004
+02,003,40005
+03,006,40006

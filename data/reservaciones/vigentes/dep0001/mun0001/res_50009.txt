@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50009,40009,4445556667,2025-05-20,2,criptomonedas,480000,Requiere cuna

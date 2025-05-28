@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Estudio Medellín Centro,40005,10002,02,003,apartamento,Diagonal 25 #40-2,160000,wifi_cocina,50005

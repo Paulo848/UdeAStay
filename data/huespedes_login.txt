@@ -1,0 +1,17 @@
+userName,contrasena,id
+mariana_torres,Mt2025*,9876543210
+andres_gomez,Ag2025?,1234567890
+luisa_fernandez,Lf2025@,1029384756
+carlos_lopez,Cl2025&,5647382910
+ana_rodriguez,Ar2025$,6789054321
+jorge_martinez,Jm2025!,1112223334
+laura_sanchez,Ls2025%,2223334445
+diego_ramirez,Dr2025^,3334445556
+paula_gonzalez,Pg2025&,4445556667
+ricardo_perez,Rp2025*,5556667778
+sofia_herrera,Sh2025#,6667778889
+andres_castillo,Ac2025@,7778889990
+valentina_moreno,Vm2025*,8889990001
+antonio_vargas,Av2025%,9990001112
+camila_ruiz,Cr2025#,1020304050
+sebastian_munoz,Sm2025&,1122334455

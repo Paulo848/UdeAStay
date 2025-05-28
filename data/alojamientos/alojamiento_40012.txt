@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Apartamento Palmira,40012,10004,03,006,apartamento,Avenida 6 #30-70,175000,wifi_cocina,50012

@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Sofía Herrera,6667778889,2025-04-01,4.8,50011

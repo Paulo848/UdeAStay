@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Diego Ramírez,3334445556,2025-04-22,4.4,50008

@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50010,40010,5556667778,2025-06-15,3,efectivo,630000,Sol solicita cambio de sábana

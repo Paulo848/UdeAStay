@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Apartamento Cali Centro,40016,10005,03,005,apartamento,Calle 9 #13-40,190000,wifi_cocina_tv,50016

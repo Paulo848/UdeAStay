@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Villa de Cali,40003,10001,03,005,casa,Avenida 3 #15-5,250000,piscina_jardin_parqueadero,50003

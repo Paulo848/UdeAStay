@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Laura Sánchez,2223334445,2025-01-30,4.5,50007

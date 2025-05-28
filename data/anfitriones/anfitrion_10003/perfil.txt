@@ -1,0 +1,2 @@
+id,nombre,contacto,puntuacion,dateRegis
+10003,Laura Martínez,laura.martinez@example.com,4.9,2025-03-05

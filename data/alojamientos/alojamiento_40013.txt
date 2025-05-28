@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Loft Soacha Moderno,40013,10005,01,002,apartamento,Carrera 3 #45-20,155000,wifi_cocina,50013

@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50016,40016,1122334455,2025-08-20,5,efectivo,950000,Reservación larga

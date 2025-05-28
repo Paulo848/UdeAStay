@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Ricardo Pérez,5556667778,2025-02-05,4.7,50010

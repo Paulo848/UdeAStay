@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50006,40006,1112223334,2025-08-01,2,tarjetaCredito,440000,Necesita estacionamiento

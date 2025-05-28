@@ -1,0 +1,2 @@
+nombre,alojamientoID,hostID,departamento,municipio,tipo,direccion,precioPorNoche,amenidades,reservaciones
+Loft Envigado,40004,10002,02,004,apartamento,Transversal 50 #10-30,180000,wifi_aire_cocina,50004

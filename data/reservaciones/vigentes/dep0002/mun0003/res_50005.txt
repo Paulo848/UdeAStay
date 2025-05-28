@@ -1,0 +1,2 @@
+id,alojamientoID,numDocumHuesped,dateEntrada,numNoches,metodoPago,monto,anotaciones_huesped
+50005,40005,6789054321,2025-06-10,2,efectivo,320000,Hora de llegada tarde

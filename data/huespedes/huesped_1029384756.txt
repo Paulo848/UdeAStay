@@ -1,0 +1,2 @@
+name,numDocum,dateRegis,puntuacion,reservasID
+Luisa Fernández,1029384756,2025-01-15,4.9,50003
